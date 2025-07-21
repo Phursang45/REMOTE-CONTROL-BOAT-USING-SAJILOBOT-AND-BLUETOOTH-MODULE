@@ -11,7 +11,7 @@ If you are interested to find out the making process follow this file **Process 
 **Duration:** 12 weeks
 **Supervised by:** Bipin Timilsina
 
-**📄 Read the full project report here: Zenodo DOI:** (https://zenodo.org/records/16214172?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImU3NWQ0MjEzLWUyMjQtNDBhMC05Zjk1LTNhOTcwODlmYjdhNSIsImRhdGEiOnt9LCJyYW5kb20iOiJmYzI5MWE5NmE5MGNjYWRlYjExZTNkNzQ1ZjU0YTY5OSJ9.b9b1fyjl-o81_cd1uMNA5cDpDLz1Q8FSewTNsmBduB2vURa1r0w6cyOvC7LhWfzASprdN6e6DmmEnePBh9pHvg)
+**📄 Read the full project report here: Zenodo DOI:** (https://zenodo.org/records/16214172)
 
 🛠️ Tools & Technologies Used
 - SajiloBot (Nepal-based microcontroller like Arduino Uno)
